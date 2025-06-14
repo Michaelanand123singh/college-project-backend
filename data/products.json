@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Adobe Photoshop 2024",
+    "price": 299,
+    "category": "Design",
+    "description": "Professional photo editing and graphic design software with advanced features for creative professionals. Includes AI-powered tools, advanced compositing, and comprehensive photo manipulation capabilities.",
+    "image": "/api/placeholder/300/200",
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Microsoft Office 365",
+    "price": 149,
+    "category": "Productivity",
+    "description": "Complete office suite with Word, Excel, PowerPoint, and more. Cloud-based collaboration tools and 1TB OneDrive storage included. Perfect for business and personal use.",
+    "image": "/api/placeholder/300/200",
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Visual Studio Code Pro",
+    "price": 199,
+    "category": "Development",
+    "description": "Advanced code editor with premium features including advanced debugging, IntelliSense, Git integration, and extensive plugin support. Ideal for professional developers.",
+    "image": "/api/placeholder/300/200",
+    "featured": true,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Norton Antivirus",
+    "price": 89,
+    "category": "Security",
+    "description": "Complete antivirus and internet security suite with real-time protection, firewall, VPN, and identity theft protection. Protects multiple devices and platforms.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Adobe Illustrator 2024",
+    "price": 279,
+    "category": "Design",
+    "description": "Vector graphics and illustration software for creating logos, icons, drawings, typography, and illustrations. Industry-standard tool for graphic designers and artists.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "name": "IntelliJ IDEA Ultimate",
+    "price": 249,
+    "category": "Development",
+    "description": "Powerful IDE for Java and other languages with intelligent coding assistance, built-in tools, and framework support. Perfect for enterprise development projects.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Slack Business+",
+    "price": 119,
+    "category": "Productivity",
+    "description": "Advanced team collaboration platform with unlimited message history, guest access, video calls, and enterprise-grade security features.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Kaspersky Total Security",
+    "price": 79,
+    "category": "Security",
+    "description": "Multi-device security solution with antivirus, anti-phishing, secure VPN, password manager, and parental controls. Comprehensive protection for all your devices.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Figma Professional",
+    "price": 189,
+    "category": "Design",
+    "description": "Collaborative interface design tool with real-time collaboration, prototyping, and design systems. Perfect for UI/UX designers and design teams.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Docker Desktop Pro",
+    "price": 169,
+    "category": "Development",
+    "description": "Professional containerization platform with advanced features for development teams. Includes enhanced security, centralized management, and enterprise support.",
+    "image": "/api/placeholder/300/200",
+    "featured": false,
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-01T00:00:00.000Z"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1705123456789,
+    "orderNumber": "ORD-1705123456789",
+    "userId": 2,
+    "customerInfo": {
+      "email": "john@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "address": "123 Main St",
+      "city": "New York",
+      "zipCode": "10001"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Adobe Photoshop 2024",
+        "price": 299,
+        "quantity": 1,
+        "subtotal": 299
+      },
+      {
+        "id": 4,
+        "name": "Norton Antivirus",
+        "price": 89,
+        "quantity": 1,
+        "subtotal": 89
+      }
+    ],
+    "total": 388,
+    "paymentMethod": "credit",
+    "status": "completed",
+    "paymentStatus": "paid",
+    "createdAt": "2024-01-13T10:30:56.789Z",
+    "updatedAt": "2024-01-13T10:30:56.789Z"
+  },
+  {
+    "id": 1705223456789,
+    "orderNumber": "ORD-1705223456789",
+    "userId": 3,
+    "customerInfo": {
+      "email": "jane@example.com",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "address": "456 Oak Ave",
+      "city": "Los Angeles",
+      "zipCode": "90210"
+    },
+    "items": [
+      {
+        "id": 2,
+        "name": "Microsoft Office 365",
+        "price": 149,
+        "quantity": 2,
+        "subtotal": 298
+      }
+    ],
+    "total": 298,
+    "paymentMethod": "paypal",
+    "status": "completed",
+    "paymentStatus": "paid",
+    "createdAt": "2024-01-14T14:20:56.789Z",
+    "updatedAt": "2024-01-14T14:20:56.789Z"
+  },
+  {
+    "id": 1705323456789,
+    "orderNumber": "ORD-1705323456789",
+    "userId": null,
+    "customerInfo": {
+      "email": "customer@example.com",
+      "firstName": "Guest",
+      "lastName": "User",
+      "address": "789 Pine St",
+      "city": "Chicago",
+      "zipCode": "60601"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Visual Studio Code Pro",
+        "price": 199,
+        "quantity": 1,
+        "subtotal": 199
+      }
+    ],
+    "total": 199,
+    "paymentMethod": "credit",
+    "status": "pending",
+    "paymentStatus": "pending",
+    "createdAt": "2024-01-15T09:15:56.789Z",
+    "updatedAt": "2024-01-15T09:15:56.789Z"
+  }
+]
